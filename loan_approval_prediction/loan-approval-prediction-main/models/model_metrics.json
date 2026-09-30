@@ -1,0 +1,18 @@
+{
+    "model_type": "LogisticRegression",
+    "optimal_threshold": 0.3936832689591695,
+    "accuracy": 0.6125,
+    "precision": 0.5945017182130584,
+    "recall": 0.8238095238095238,
+    "f1_score": 0.6906187624750499,
+    "confusion_matrix": [
+        [
+            72,
+            118
+        ],
+        [
+            37,
+            173
+        ]
+    ]
+}

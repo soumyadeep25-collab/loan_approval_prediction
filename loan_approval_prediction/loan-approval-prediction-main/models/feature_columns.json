@@ -1,0 +1,20 @@
+[
+    "Age",
+    "MonthlyIncome",
+    "LoanAmount",
+    "CreditScore",
+    "ExistingLoans",
+    "LoanTerm",
+    "LoanToIncome",
+    "DebtBurden",
+    "CreditDebtIndex",
+    "IncomePerTerm",
+    "Gender_Female",
+    "Gender_Male",
+    "EmploymentStatus_Employed",
+    "EmploymentStatus_Self-Employed",
+    "EmploymentStatus_Unemployed",
+    "PropertyArea_Rural",
+    "PropertyArea_Semi-Urban",
+    "PropertyArea_Urban"
+]
